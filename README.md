@@ -1,16 +1,19 @@
-# 👋 Hi, I’m Samruddhi!  
-🚀 Passionate about the transformative power of **Artificial Intelligence**, I love exploring its real-world applications.  
+# 👋 Hi, I’m Samruddhi!
 
-💡 Currently **honing my skills in Python** and diving deeper into **AI & ML** to become a skilled **AIML engineer**.  
-🛠️ Skilled in **Machine Learning, NLP, Cybersecurity, Cloud Computing, and Full-Stack Development**.  
-🔍 Experienced in **building AI-powered applications, automation, and real-time fact verification systems**.  
-💡 Enthusiastic about **Google Cloud, AI research, and scalable tech solutions**.  
+🚀 Passionate about the transformative power of **Artificial Intelligence**, I thrive on building **impactful AI solutions** that solve real-world problems.
 
-🤝 Open to collaborating on **AI-driven projects**, **open-source contributions**, and anything related to **Python, Machine Learning, or AI frameworks**.  
+💡 Currently sharpening my **Python** and **AI/ML fundamentals** to grow into a skilled **AI/ML Engineer** and future **AI Researcher**.
+🛠️ Skilled in **Machine Learning, NLP, Agentic AI, Cybersecurity, Cloud Computing, and GenAI frameworks**.
+🔍 Hands-on experience designing **AI-powered applications**, **automation pipelines**, **real-time fact-verification systems**, and **OCR/Document Intelligence tools** (like *TimeScribe+*).
+🏆 Active in **hackathons and open-source projects**, with a focus on **ethical AI** and **scalable solutions**.
+💡 Enthusiastic about **Google Cloud, AI research, agentic AI, and next-gen NLP systems**.
 
-😄 **Pronouns:** She/Her  
+🤝 Open to collaborating on **AI-driven projects**, **research initiatives**, and **open-source contributions** in **Python, Machine Learning, and AI frameworks**.
 
-⚡ **Fun Fact:** I see coding as **art**—a mix of logic, creativity, and problem-solving that brings ideas to life!  
+😄 **Pronouns:** She/Her
 
-📬 **Let’s connect** and innovate together! 🚀  
-**💡 Feel free to connect, and let's explore AI together! 🤖✨** 
+⚡ **Fun Fact:** I see coding as **art**—a blend of logic, creativity, and problem-solving that turns ideas into reality!
+
+📬 **Let’s connect and innovate together! 🤖✨**
+
+
